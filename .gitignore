@@ -1,0 +1,15 @@
+*.sln
+*.lib
+*.pdb
+*.dll
+*.exp
+*.ilk
+*.vcxproj
+*.filters
+*.obj
+*.log
+*.pch
+*.idb
+*.tlog
+*.lastbuildstate
+
